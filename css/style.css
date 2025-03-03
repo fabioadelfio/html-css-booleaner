@@ -76,3 +76,32 @@ th {
 .blue-line {
     background-color: #B1E6F2;
 }
+
+div {
+    color: gray;
+    font-weight: bold;
+}
+
+.interests {
+    width: 50%;
+}
+
+.pic1 {
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.pic2 {
+    background-image: url(../img/graph.jpg);
+    color: white;
+    font-size: 30px;
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-top: 10px;
+    padding: 10px;
+}
