@@ -44,3 +44,35 @@ body {
 .info-pics {
     font-weight: bold;
 }
+
+.article {
+    margin-left: 10px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    padding-left: 23px;
+}
+
+table {
+    width: 100%;
+    color: black;
+}
+
+.table-header {
+    background-color: #1FA9E8;
+    color: #E2FFFF;
+}
+
+th {
+    text-align: left;
+}
+
+.paragraph {
+    width: 50%;
+}
+
+.blue-line {
+    background-color: #B1E6F2;
+}
