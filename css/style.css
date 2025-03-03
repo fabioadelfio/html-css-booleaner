@@ -10,8 +10,33 @@ body {
 }
 
 .logo {
-    width: 250px;
+    width: 300px;
     position: absolute;
-    bottom: 15px;
+    bottom: 10px;
     left: 10px; 
+}
+
+.article-header {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.title-footer {
+    color: #7F7F7F;
+}
+.author {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.tim-pics {
+    margin-top: 20px;
 }
